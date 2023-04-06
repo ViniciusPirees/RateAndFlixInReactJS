@@ -1,6 +1,6 @@
 # Rate And Flix In ReactJS
 
-Recriação do meu Projeto de conclusão de curso pela FATEC ITU no final do semestre em 2022 utilizando o ReactJs para aprendizado e portifólio
+Recriação do meu Projeto de conclusão de curso pela FATEC ITU no final do semestre em 2022 utilizando o ReactJs e NodeJS para aprendizado e portifólio
 
 Projeto anteriormente feito utilizando HTML, CSS, JQuery, PHP e MySQL.
 
